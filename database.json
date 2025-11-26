@@ -1,0 +1,35 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Ted Franklin",
+            "email": "tedf64@gmail.com"
+        }
+    ],
+
+    "locations": [
+        {
+            "id": 1,
+            "name": "South Holston River",
+            "type": "River"
+        }
+    ],
+
+    "reports": [
+        {
+            "id": 1,
+            "userId": 1,
+            "locationId": 1,
+            "date": "11/25/25",
+            "title": "Late Fall Trout Bite",
+            "body": "Caught a very nice 18 in brown trout on a size 8 Olive Wooly Bugger just below the dam around sunset.",
+            "likes": 0
+
+
+        }
+    ],
+
+    "userLikes" : [
+        
+    ]
+}
