@@ -1,135 +1,174 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "name": "Ted Franklin",
-            "email": "tedf64@gmail.com"
-        },
-        {
-            "id": 2,
-            "name": "Sarah Chen",
-            "email": "sarah.chen@outlook.com"
-        },
-        {
-            "id": 3,
-            "name": "Marcus Rodriguez",
-            "email": "m.rodriguez91@yahoo.com"
-        },
-        {
-            "id": 4,
-            "name": "Emily Watson",
-            "email": "ewatson.design@gmail.com"
-        },
-        {
-            "id": 5,
-            "name": "James Park",
-            "email": "jpark.dev@protonmail.com"
-        },
-        {
-            "id": 6,
-            "name": "Olivia Martinez",
-            "email": "olivia_martinez@icloud.com"
-        },
-        {
-            "id": 7,
-            "name": "David Nguyen",
-            "email": "dnguyen2024@gmail.com"
-        }
-    ],
-    "locations": [
-        {
-            "id": 1,
-            "name": "South Holston River",
-            "type": "Tailwater River"
-        },
-        {
-            "id": 2,
-            "name": "Watauga River",
-            "type": "Tailwater River"
-        },
-        {
-            "id": 3,
-            "name": "Hiwassee River",
-            "type": "Tailwater River"
-        },
-        {
-            "id": 4,
-            "name": "Caney Fork River",
-            "type": "Tailwater River"
-        },
-        {
-            "id": 5,
-            "name": "Elk River",
-            "type": "Tailwater River"
-        },
-        {
-            "id": 6,
-            "name": "Tellico Lake",
-            "type": "Lake"
-        },
-        {
-            "id": 7,
-            "name": "Chilhowee Lake",
-            "type": "Lake"
-        },
-        {
-            "id": 8,
-            "name": "Wilbur Lake",
-            "type": "Lake"
-        },
-        {
-            "id": 9,
-            "name": "Abrams Creek",
-            "type": "Freestone Stream"
-        },
-        {
-            "id": 10,
-            "name": "Doe River",
-            "type": "Freestone Stream"
-        },
-        {
-            "id": 11,
-            "name": "Laurel Creek",
-            "type": "Freestone Stream"
-        },
-        {
-            "id": 12,
-            "name": "Little Pigeon River",
-            "type": "Freestone Stream"
-        }
-    ],
-    "reports": [
-        {
-            "id": 1,
-            "userId": 1,
-            "locationId": 1,
-            "date": "11/25/25",
-            "title": "Late Fall Trout Bite",
-            "body": "Caught a very nice 18 in brown trout on a size 8 Olive Wooly Bugger just below the dam around sunset.",
-            "likes": 0
-        },
-
-        {
-            "id": 1,
-            "userId": 2,
-            "locationId": 2,
-            "date": "11/15/25",
-            "title": "Early Afternoon Caddis Hatch Success",
-            "body": "Caddis flies are still hatching on the Watauga. Caught 4 rainbow trout this afternoon on size 16-18 caddis dry flies.",
-            "likes": 0
-        },
-
-        {
-            "id": 1,
-            "userId": 3,
-            "locationId": 11,
-            "date": "08/19/25",
-            "title": "Wild Brook Trout found in Deep Plunge Pools",
-            "body": "Had a great day fishing on this beautiful wild mountain stream. Caught 3 native brook trout using nymphs in deep pools below waterfalls.",
-            "likes": 0
-        }
-
-
-    ],
-    "userLikes": []
+  "users": [
+    {
+      "id": 1,
+      "name": "Ted Franklin",
+      "email": "tedf64@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Sarah Chen",
+      "email": "sarah.chen@outlook.com"
+    },
+    {
+      "id": 3,
+      "name": "Marcus Rodriguez",
+      "email": "m.rodriguez91@yahoo.com"
+    },
+    {
+      "id": 4,
+      "name": "Emily Watson",
+      "email": "ewatson.design@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "James Park",
+      "email": "jpark.dev@protonmail.com"
+    },
+    {
+      "id": 6,
+      "name": "Olivia Martinez",
+      "email": "olivia_martinez@icloud.com"
+    },
+    {
+      "id": 7,
+      "name": "David Nguyen",
+      "email": "dnguyen2024@gmail.com"
+    },
+    {
+      "email": "ew45@gmail.com",
+      "name": "Eric Washington",
+      "id": 8
+    },
+    {
+      "email": "johnnyM78@hotmail.com",
+      "name": "John Matthews",
+      "id": 9
+    },
+    {
+      "email": "billyP90@tsu.edu",
+      "name": "Bill Plotchman",
+      "id": 10
+    },
+    {
+      "email": "JLocke@gmail.com",
+      "name": "Jane Locke",
+      "id": 11
+    },
+    {
+      "email": "sheilaT@outlook.com",
+      "name": "Sheila Tumbleton",
+      "id": 12
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "South Holston River",
+      "type": "Tailwater River"
+    },
+    {
+      "id": 2,
+      "name": "Watauga River",
+      "type": "Tailwater River"
+    },
+    {
+      "id": 3,
+      "name": "Hiwassee River",
+      "type": "Tailwater River"
+    },
+    {
+      "id": 4,
+      "name": "Caney Fork River",
+      "type": "Tailwater River"
+    },
+    {
+      "id": 5,
+      "name": "Elk River",
+      "type": "Tailwater River"
+    },
+    {
+      "id": 6,
+      "name": "Tellico Lake",
+      "type": "Lake"
+    },
+    {
+      "id": 7,
+      "name": "Chilhowee Lake",
+      "type": "Lake"
+    },
+    {
+      "id": 8,
+      "name": "Wilbur Lake",
+      "type": "Lake"
+    },
+    {
+      "id": 9,
+      "name": "Abrams Creek",
+      "type": "Freestone Stream"
+    },
+    {
+      "id": 10,
+      "name": "Doe River",
+      "type": "Freestone Stream"
+    },
+    {
+      "id": 11,
+      "name": "Laurel Creek",
+      "type": "Freestone Stream"
+    },
+    {
+      "id": 12,
+      "name": "Little Pigeon River",
+      "type": "Freestone Stream"
+    }
+  ],
+  "reports": [
+    {
+      "id": 1,
+      "userId": 1,
+      "locationId": 1,
+      "date": "11/25/25",
+      "title": "Late Fall Trout Bite",
+      "body": "Caught a very nice 18 in brown trout on a size 8 Olive Wooly Bugger just below the dam around sunset.",
+      "likes": 0
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "locationId": 2,
+      "date": "11/15/25",
+      "title": "Early Afternoon Caddis Hatch Success",
+      "body": "Caddis flies are still hatching on the Watauga. Caught 4 rainbow trout this afternoon on size 16-18 caddis dry flies.",
+      "likes": 0
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "locationId": 11,
+      "date": "08/19/25",
+      "title": "Wild Brook Trout found in Deep Plunge Pools",
+      "body": "Had a great day fishing on this beautiful wild mountain stream. Caught 3 native brook trout using nymphs in deep pools below waterfalls.",
+      "likes": 0
+    },
+    {
+      "id": 4,
+      "title": "Brook Trout on Streamers",
+      "body": "Caught 5 Brook Trout on small white size #12 streamer flies below the dam. ",
+      "date": "2025-12-06T17:34:06.650Z",
+      "locationId": 4,
+      "userId": 1,
+      "likes": 0
+    },
+    {
+      "id": 5,
+      "title": "Rainbow Trout in shallows",
+      "body": "Caught nine rainbow trout near the shoreline with dry flies.",
+      "date": "2025-12-06T19:40:47.450Z",
+      "locationId": 7,
+      "userId": 1,
+      "likes": 0
+    }
+  ],
+  "userLikes": []
 }
