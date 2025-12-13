@@ -65,72 +65,94 @@
     {
       "id": 1,
       "name": "South Holston River",
-      "type": "Tailwater River"
+      "type": "Tailwater River",
+      "imageUrl": "https://i.imgur.com/wKviPBP.jpeg",
+      "description": "The South Holston River has quietly gained the reputation of one of the best tailwater fisheries in the entire eastern United States. The river is known for its Sulphur hatches that begin in late June and last until early fall."
     },
     {
       "id": 2,
       "name": "Watauga River",
-      "type": "Tailwater River"
+      "type": "Tailwater River",
+      "imageUrl": "https://i.imgur.com/p35czHv.jpeg",
+      "description": "This tailwater river begins below the Wilbur Dam and flows through the small Appalachian town of Elizabethton, Tennessee. Wild Brown Trout flourish here and the river has not been stocked with fish since the early 2000's. Access can be found easily at many road pull offs or at the Sycamore Shoals State Park."
     },
     {
       "id": 3,
       "name": "Hiwassee River",
-      "type": "Tailwater River"
+      "type": "Tailwater River",
+      "imageUrl": "https://i.imgur.com/PgXJKdb.jpeg",
+      "description": "One of the most scenic rivers in the state, the Hiwasssee River runs through the Cherokee National Forest in Southeast Tennessee. With an incredibly wide river bed, it feels very much like some of the larger rivers out West. The river is also a big attraction for kayakers and white water rafting trips."
     },
     {
       "id": 4,
       "name": "Caney Fork River",
-      "type": "Tailwater River"
+      "type": "Tailwater River",
+      "imageUrl": "https://i.imgur.com/KpsdVZR.jpeg",
+      "description": "Located about one hour east of Nashville, this is the most popular destination for fly fishing in Middle Tennessee. Construction on the Center Hill Dam has caused a negative effect on trout populations in recent years, however efforts from the Nashville Trout Unlimited chapter have led to improvements to the fishery."
     },
     {
       "id": 5,
       "name": "Elk River",
-      "type": "Tailwater River"
+      "type": "Tailwater River",
+      "imageUrl": "https://i.imgur.com/S1g0M2s.jpeg",
+      "description": "The Elk is one of the lesser known Tennessee tailwaters, and is located just down the road from the Jack Daniels Distillery in Lynchburg. The river provides a quiet pastoral setting for those who wish to escape the crowds."
     },
     {
       "id": 6,
       "name": "Tellico Lake",
-      "type": "Lake"
+      "type": "Lake",
+      "imageUrl": "https://i.imgur.com/UBHYcaH.png",
+      "description": "Located just south of Maryville, TN, Tellico Lake is one of the most productive lakes year round. It is home of the Tellico Nymph, a fly pattern used by fly fisherman the world over."
     },
     {
       "id": 7,
       "name": "Chilhowee Lake",
-      "type": "Lake"
+      "type": "Lake",
+      "imageUrl": "https://i.imgur.com/FziYFl9.png",
+      "description": "Chilhowee Lake is an impoundment on the Little Tennessee River that was built in the 1950s and is part of a chain of lakes that begin in North Carolina and end at the confluence of the Tennessee River. In addition to trout, this is a great lake to fish for smallmouth or largemouth bass."
     },
     {
       "id": 8,
       "name": "Wilbur Lake",
-      "type": "Lake"
+      "type": "Lake",
+      "imageUrl": "https://i.imgur.com/s0BJNhY.png",
+      "description": "This tiny mountain lake is situated just above the Watauga River and provides excellent access with nearly half the lake accessable from the road. Multiple picnic shelters and a small boat ramp make it a great option for families with young children."
     },
     {
       "id": 9,
       "name": "Abrams Creek",
-      "type": "Freestone Stream"
+      "type": "Freestone Stream",
+      "imageUrl": "https://i.imgur.com/IZ2JRYe.jpeg",
+      "description": "Abrams Creek is considered by many to be one of the best wild trout streams in the Southeast. Located in the Great Smoky Mountains State Park it drains into the Cades Cove Recreation area. Access is remote and may require a long hike in and out so plan accordingly."
     },
     {
       "id": 10,
       "name": "Doe River",
-      "type": "Freestone Stream"
+      "type": "Freestone Stream",
+      "imageUrl": "https://i.imgur.com/xXkVhst.jpeg",
+      "description": "The Doe River an excellent freestone stream with a lot to offer. A tributary of the Watauga River, it begins in Roan Mountain State Park and flows through the scenic Doe River Gorge. Water can rise quickly here so be sure to keep an eye on the weather. Many sections of this river are still recovering from the extensive flooding caused by Hurricane Helene."
     },
     {
       "id": 11,
       "name": "Laurel Creek",
-      "type": "Freestone Stream"
+      "type": "Freestone Stream",
+      "imageUrl": "https://i.imgur.com/lqdSits.jpeg"
     },
     {
       "id": 12,
       "name": "Little Pigeon River",
-      "type": "Freestone Stream"
+      "type": "Freestone Stream",
+      "imageUrl": "https://i.imgur.com/BKvDxbO.jpeg"
     }
   ],
   "reports": [
     {
       "id": 1,
-      "userId": 1,
-      "locationId": 1,
-      "date": "8/25/2025",
       "title": "Late Summer Trout Bite",
-      "body": "Caught a very nice 24 inch brown trout on an olive Wooly Bugger just below the dam around sunset.",
+      "body": "Caught a very nice 22 inch rainbow trout on an olive Wooly Bugger just below the dam around sunset.",
+      "date": "8/25/2025",
+      "locationId": 4,
+      "userId": 1,
       "likes": 1
     },
     {
@@ -140,7 +162,7 @@
       "date": "9/15/2025",
       "title": "Early Afternoon Caddis Hatch Success",
       "body": "Caddis flies are still hatching on the Watauga. Caught 4 rainbow trout this afternoon on size 16-18 caddis dry flies.",
-      "likes": 0
+      "likes": 2
     },
     {
       "id": 3,
@@ -149,7 +171,7 @@
       "date": "9/19/2025",
       "title": "Wild Brook Trout found in Deep Plunge Pools",
       "body": "Had a great day fishing on this beautiful wild mountain stream. Caught 3 native brook trout using nymphs in deep pools below waterfalls.",
-      "likes": 0
+      "likes": 1
     },
     {
       "id": 4,
@@ -176,7 +198,7 @@
       "date": "11/11/2025",
       "title": "Brown Trout moving to spawning areas",
       "body": "The Brown Trout have begun their spawning pattern. Be careful to avoid stepping on their eggs.  ",
-      "likes": 2
+      "likes": 1
     },
     {
       "id": 8,
@@ -185,7 +207,7 @@
       "date": "11/30/2025",
       "title": "High Water Level & Fast Current!",
       "body": "With the recent heavy rains the river level is much higher than usual and flows aren't suitable for fishing. Other nearby locations such as the South Holston River or the Watauga River might be better options.",
-      "likes": 1
+      "likes": 2
     },
     {
       "id": 9,
@@ -197,13 +219,13 @@
       "likes": 1
     },
     {
-      "title": "Large Lake Trout Caught Very Deep",
-      "locationId": 7,
+      "id": 10,
       "userId": 12,
-      "body": "This lake is filled with gigantic lake trout! They can be caught using heavily weighted sinking lines and large streamer patterns fished near the bottom! ",
+      "locationId": 7,
       "date": "12/9/2025",
-      "likes": 0,
-      "id": 10
+      "title": "Large Lake Trout Caught Very Deep",
+      "body": "This lake is filled with gigantic lake trout! They can be caught using heavily weighted sinking lines and large streamer patterns fished near the bottom! ",
+      "likes": 0
     },
     {
       "id": 11,
@@ -222,21 +244,27 @@
       "date": "12/12/2025",
       "likes": 0,
       "id": 12
+    },
+    {
+      "id": 13,
+      "userId": 1,
+      "locationId": 10,
+      "date": "12/13/2025",
+      "title": "Caught a big fish today",
+      "body": "Biggest one ever!",
+      "likes": 1
+    },
+    {
+      "title": "My first report",
+      "locationId": 12,
+      "userId": 9,
+      "body": "This is my first report.",
+      "date": "12/13/2025",
+      "likes": 0,
+      "id": 14
     }
   ],
   "userLikes": [
-    {
-      "userId": 1,
-      "reportId": 7,
-      "locationId": 5,
-      "id": 2
-    },
-    {
-      "userId": 1,
-      "reportId": 9,
-      "locationId": 8,
-      "id": 3
-    },
     {
       "userId": 5,
       "reportId": 7,
@@ -266,6 +294,30 @@
       "reportId": 4,
       "locationId": 4,
       "id": 8
+    },
+    {
+      "userId": 1,
+      "reportId": 8,
+      "locationId": 10,
+      "id": 9
+    },
+    {
+      "userId": 1,
+      "reportId": 2,
+      "locationId": 2,
+      "id": 10
+    },
+    {
+      "userId": 9,
+      "reportId": 13,
+      "locationId": 10,
+      "id": 11
+    },
+    {
+      "userId": 9,
+      "reportId": 2,
+      "locationId": 2,
+      "id": 12
     }
   ]
 }
