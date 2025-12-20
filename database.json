@@ -67,92 +67,167 @@
       "name": "South Holston River",
       "type": "Tailwater River",
       "imageUrl": "https://i.imgur.com/wKviPBP.jpeg",
-      "description": "The South Holston River has quietly gained the reputation of one of the best tailwater fisheries in the entire eastern United States. The river is known for its Sulphur hatches that begin in late June and last until early fall."
+      "description": "The South Holston River has quietly gained the reputation of one of the best tailwater fisheries in the entire eastern United States. The river is known for its Sulphur hatches that begin in late June and last until early fall.",
+      "lat": 36.5287,
+      "lon": -82.1462
     },
     {
       "id": 2,
       "name": "Watauga River",
       "type": "Tailwater River",
       "imageUrl": "https://i.imgur.com/p35czHv.jpeg",
-      "description": "This tailwater river begins below the Wilbur Dam and flows through the small Appalachian town of Elizabethton, Tennessee. Wild Brown Trout flourish here and the river has not been stocked with fish since the early 2000's. Access can be found easily at many road pull offs or at the Sycamore Shoals State Park."
+      "description": "This tailwater river begins below the Wilbur Dam and flows through the small Appalachian town of Elizabethton, Tennessee. Wild Brown Trout flourish here and the river has not been stocked with fish since the early 2000's. Access can be found easily at many road pull offs or at the Sycamore Shoals State Park.",
+      "lat": 36.3415,
+      "lon": -82.1198
     },
     {
       "id": 3,
       "name": "Hiwassee River",
       "type": "Tailwater River",
       "imageUrl": "https://i.imgur.com/PgXJKdb.jpeg",
-      "description": "One of the most scenic rivers in the state, the Hiwasssee River runs through the Cherokee National Forest in Southeast Tennessee. With an incredibly wide river bed, it feels very much like some of the larger rivers out West. The river is also a big attraction for kayakers and white water rafting trips."
+      "description": "One of the most scenic rivers in the state, the Hiwasssee River runs through the Cherokee National Forest in Southeast Tennessee. With an incredibly wide river bed, it feels very much like some of the larger rivers out West. The river is also a big attraction for kayakers and white water rafting trips.",
+      "lat": 35.4134,
+      "lon": -85.0109
     },
     {
       "id": 4,
       "name": "Caney Fork River",
       "type": "Tailwater River",
       "imageUrl": "https://i.imgur.com/KpsdVZR.jpeg",
-      "description": "Located about one hour east of Nashville, this is the most popular destination for fly fishing in Middle Tennessee. Construction on the Center Hill Dam has caused a negative effect on trout populations in recent years, however efforts from the Nashville Trout Unlimited chapter have led to improvements to the fishery."
+      "description": "Located about one hour east of Nashville, this is the most popular destination for fly fishing in Middle Tennessee. Construction on the Center Hill Dam has caused a negative effect on trout populations in recent years, however efforts from the Nashville Trout Unlimited chapter have led to improvements to the fishery.",
+      "lat": 36.1008,
+      "lon": -85.8296
     },
     {
       "id": 5,
       "name": "Elk River",
       "type": "Tailwater River",
       "imageUrl": "https://i.imgur.com/S1g0M2s.jpeg",
-      "description": "The Elk is one of the lesser known Tennessee tailwaters, and is located just down the road from the Jack Daniels Distillery in Lynchburg. The river provides a quiet pastoral setting for those who wish to escape the crowds."
+      "description": "The Elk is one of the lesser known Tennessee tailwaters, and is located just down the road from the Jack Daniels Distillery in Lynchburg. The river provides a quiet pastoral setting for those who wish to escape the crowds.",
+      "lat": 35.1975,
+      "lon": -86.2779
     },
     {
       "id": 6,
       "name": "Tellico Lake",
       "type": "Lake",
       "imageUrl": "https://i.imgur.com/UBHYcaH.png",
-      "description": "Located just south of Maryville, TN, Tellico Lake is one of the most productive lakes year round. It is home of the Tellico Nymph, a fly pattern used by fly fisherman the world over."
+      "description": "Located just south of Maryville, TN, Tellico Lake is one of the most productive lakes year round. It is home of the Tellico Nymph, a fly pattern used by fly fisherman the world over.",
+      "lat": 35.7788,
+      "lon": -84.2598
     },
     {
       "id": 7,
       "name": "Chilhowee Lake",
       "type": "Lake",
       "imageUrl": "https://i.imgur.com/FziYFl9.png",
-      "description": "Chilhowee Lake is an impoundment on the Little Tennessee River that was built in the 1950s and is part of a chain of lakes that begin in North Carolina and end at the confluence of the Tennessee River. In addition to trout, this is a great lake to fish for smallmouth or largemouth bass."
+      "description": "Chilhowee Lake is an impoundment on the Little Tennessee River that was built in the 1950s and is part of a chain of lakes that begin in North Carolina and end at the confluence of the Tennessee River. In addition to trout, this is a great lake to fish for smallmouth or largemouth bass.",
+      "lat": 35.5423,
+      "lon": -84.0452
     },
     {
       "id": 8,
       "name": "Wilbur Lake",
       "type": "Lake",
       "imageUrl": "https://i.imgur.com/s0BJNhY.png",
-      "description": "This tiny mountain lake is situated just above the Watauga River and provides excellent access with nearly half the lake accessable from the road. Multiple picnic shelters and a small boat ramp make it a great option for families with young children."
+      "description": "This tiny mountain lake is situated just above the Watauga River and provides excellent access with nearly half the lake accessible from the road. Multiple picnic shelters and a small boat ramp make it a great option for families with young children.",
+      "lat": 36.3415,
+      "lon": -82.1198
     },
     {
       "id": 9,
       "name": "Abrams Creek",
       "type": "Freestone Stream",
       "imageUrl": "https://i.imgur.com/IZ2JRYe.jpeg",
-      "description": "Abrams Creek is considered by many to be one of the best wild trout streams in the Southeast. Located in the Great Smoky Mountains State Park it drains into the Cades Cove Recreation area. Access is remote and may require a long hike in and out so plan accordingly."
+      "description": "Abrams Creek is considered by many to be one of the best wild trout streams in the Southeast. Located in the Great Smoky Mountains State Park it drains into the Cades Cove Recreation area. Access is remote and may require a long hike in and out so plan accordingly.",
+      "lat": 35.5957,
+      "lon": -83.9399
     },
     {
       "id": 10,
       "name": "Doe River",
       "type": "Freestone Stream",
       "imageUrl": "https://i.imgur.com/xXkVhst.jpeg",
-      "description": "The Doe River an excellent freestone stream with a lot to offer. A tributary of the Watauga River, it begins in Roan Mountain State Park and flows through the scenic Doe River Gorge. Water can rise quickly here so be sure to keep an eye on the weather. Many sections of this river are still recovering from the extensive flooding caused by Hurricane Helene."
+      "description": "The Doe River an excellent freestone stream with a lot to offer. A tributary of the Watauga River, it begins in Roan Mountain State Park and flows through the scenic Doe River Gorge. Water can rise quickly here so be sure to keep an eye on the weather. Many sections of this river are still recovering from the extensive flooding caused by Hurricane Helene.",
+      "lat": 36.2666,
+      "lon": -82.1526
     },
     {
       "id": 11,
       "name": "Laurel Creek",
       "type": "Freestone Stream",
-      "imageUrl": "https://i.imgur.com/lqdSits.jpeg"
+      "imageUrl": "https://i.imgur.com/lqdSits.jpeg",
+      "lat": 36.243,
+      "lon": -82.0813
     },
     {
       "id": 12,
       "name": "Little Pigeon River",
       "type": "Freestone Stream",
-      "imageUrl": "https://i.imgur.com/BKvDxbO.jpeg"
+      "imageUrl": "https://i.imgur.com/BKvDxbO.jpeg",
+      "lat": 35.8406,
+      "lon": -83.4811
+    }
+  ],
+  "flies": [
+    {
+      "id": 1,
+      "name": "Parachute Adams",
+      "type": "Dry Fly",
+      "description": "The Parachute Adams is a versatile dry fly fishing lure that imitates mayflies and caddisflies, designed with a visible post to improve the angler's ability to see it on the water. It is known for its durability and ability to float well, making it effective in a variety of conditions like early mornings, late evenings, and rough water. Key features include a parachute-style hackle that allows it to float high and a distinct post that makes it easier to track.",
+      "imageUrl": "https://i.imgur.com/YSuRgrI.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Woolly Bugger",
+      "type": "Streamer",
+      "description": "A Woolly Bugger is a highly versatile and effective streamer fly in fly fishing, imitating baitfish, leeches, or large insects, catching everything from trout and bass to saltwater species, and is fished by stripping (fast retrieval), swinging across currents, or dead-drifting to mimic natural movement, often tied with a marabou tail and chenille body for its buggy, pulsating action, making it a staple for all anglers",
+      "imageUrl": "https://i.imgur.com/LQAx500.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Elk Hair Caddis",
+      "type": "Dry Fly",
+      "description": "The Elk Hair Caddis is a popular, versatile dry fly pattern for fishing caddisflies and other insects in rivers, streams, and lakes. It is characterized by its namesake elk hair wing, which provides buoyancy, and a body that can be made from materials like dubbing or peacock. The fly is effective in a variety of conditions, can be tied in sizes 10 to 16, and is a good pattern for beginners learning to tie dry flies.",
+      "imageUrl": "https://i.imgur.com/c81TgJu.png"
+    },
+    {
+      "id": 4,
+      "name": "Zebra Midge",
+      "type": "Nymph",
+      "description": "The Zebra Midge is a highly effective, simple-to-tie fly pattern used in fly fishing, mimicking tiny aquatic midge larvae (bloodworms) that trout love, featuring a ribbed body (often silver wire), a bead for weight, and common colors like black, red, or olive, making it a versatile go-to for subtle subsurface presentations, especially in cold water or low-visibility conditions.",
+      "imageUrl": "https://i.imgur.com/lGM3Ena.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Tellico Nymph",
+      "type": "Nymph",
+      "description": "The Tellico Nymph is a classic, effective freshwater fly fishing lure, especially popular in the Appalachians, designed to imitate small aquatic insects like stonefly nymphs, featuring a distinctive yellow floss body, peacock herl ribbing, and often a soft hackle or turkey feather wing case, known for catching trout and panfish year-round by being fished as a weighted nymph or swung as a wet fly.",
+      "imageUrl": "https://i.imgur.com/oV3kw83.png"
+    },
+    {
+      "id": 6,
+      "name": "Hare's Ear Nymph",
+      "type": "Nymph",
+      "description": "A Hare's Ear Nymph is a classic, versatile, and highly effective artificial fly used in fly fishing to imitate various aquatic insect larvae, like mayfly and caddis nymphs, making it a staple searching pattern for trout in rivers and stillwaters worldwide, characterized by its buggy look from hare's fur and often featuring gold tinsel for ribbing and pheasant tail fibers for legs/wing case.",
+      "imageUrl": "https://i.imgur.com/234kBST.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Zonker",
+      "type": "Streamer",
+      "description": "A Zonker fly is a popular streamer pattern in fly fishing, known for its lifelike movement created by a soft rabbit fur (zonker) strip that pulses in the water, imitating baitfish or leeches for trout, bass, and pike. Created by Dan Byford in 1975, it typically features a wire body, often with mylar tubing or a flattened tube for a deep belly, and various weights, mimicking prey like sculpins or minnows in moderate currents.",
+      "imageUrl": "https://i.imgur.com/dgMknzT.png"
     }
   ],
   "reports": [
     {
       "id": 1,
+      "userId": 1,
+      "locationId": 4,
+      "date": "8/25/2025",
       "title": "Late Summer Trout Bite",
       "body": "Caught a very nice 22 inch rainbow trout on an olive Wooly Bugger just below the dam around sunset.",
-      "date": "8/25/2025",
-      "locationId": 4,
-      "userId": 1,
       "likes": 1
     },
     {
@@ -171,15 +246,15 @@
       "date": "9/19/2025",
       "title": "Wild Brook Trout found in Deep Plunge Pools",
       "body": "Had a great day fishing on this beautiful wild mountain stream. Caught 3 native brook trout using nymphs in deep pools below waterfalls.",
-      "likes": 1
+      "likes": 2
     },
     {
       "id": 4,
-      "userId": 1,
-      "locationId": 4,
-      "date": "10/12/2025",
       "title": "Brook Trout on Streamers",
-      "body": "Caught 5 Brook Trout on small white size #12 streamer flies below the dam. ",
+      "body": "Caught 5 Brook Trout on small white size #12 streamer flies below the dam. The best way to catch these fish is to swing your fly down-current and let it get as deep as possible before stripping it back in.",
+      "date": "10/12/2025",
+      "locationId": 4,
+      "userId": 1,
       "likes": 1
     },
     {
@@ -198,7 +273,7 @@
       "date": "11/11/2025",
       "title": "Brown Trout moving to spawning areas",
       "body": "The Brown Trout have begun their spawning pattern. Be careful to avoid stepping on their eggs.  ",
-      "likes": 1
+      "likes": 2
     },
     {
       "id": 8,
@@ -216,7 +291,7 @@
       "date": "12/9/2025",
       "title": "Lots of rainbow trout recently stocked here!",
       "body": "The local fisheries have recently stocked this lake with lots of small rainbow trout between 10-12\" long. These can be easily caught on brightly colored Egg or Worm patterns. Great place for a beginner!",
-      "likes": 1
+      "likes": 2
     },
     {
       "id": 10,
@@ -225,7 +300,7 @@
       "date": "12/9/2025",
       "title": "Large Lake Trout Caught Very Deep",
       "body": "This lake is filled with gigantic lake trout! They can be caught using heavily weighted sinking lines and large streamer patterns fished near the bottom! ",
-      "likes": 0
+      "likes": 1
     },
     {
       "id": 11,
@@ -234,25 +309,25 @@
       "date": "12/12/2025",
       "title": "Early Morning Catch",
       "body": "Caught several fish on small Blue Wing Olive dry flies early in the morning today.",
-      "likes": 1
+      "likes": 2
     },
     {
-      "title": "Freezing Cold Temps = Very Few Fish",
-      "locationId": 9,
+      "id": 12,
       "userId": 6,
-      "body": "It's getting very cold on these streams up in the higher elevations. Only caught two very small trout all day here.",
+      "locationId": 9,
       "date": "12/12/2025",
-      "likes": 0,
-      "id": 12
+      "title": "Freezing Cold Temps = Very Few Fish",
+      "body": "It's getting very cold on these streams up in the higher elevations. Only caught two very small trout all day here.",
+      "likes": 1
     },
     {
       "id": 13,
-      "userId": 1,
-      "locationId": 10,
+      "title": "Caught a trophy Rainbow Trout on a Hare's Ear Nymph",
+      "body": "Was nymphing through some runs between 3 and 4 feet deep. Using a 5x Leader with 14 inches of 6x tippet I was able to hook a monster 22\" Rainbow Trout on a Hare's Ear Nymph pattern. After a lengthy battle I safely netted the fish for a quick photo op before safely releasing back into the wild. Keep 'em Wet! ",
       "date": "12/13/2025",
-      "title": "Caught a big fish today",
-      "body": "Biggest one ever!",
-      "likes": 1
+      "locationId": 10,
+      "userId": 1,
+      "likes": 0
     },
     {
       "title": "My first report",
@@ -262,6 +337,15 @@
       "date": "12/13/2025",
       "likes": 0,
       "id": 14
+    },
+    {
+      "id": 15,
+      "title": "Low and Slow is the Way to Go!",
+      "body": "These highly selective fish at the South Holston are still feeding, and can still be caught even in the dead of winter! The key is to fish a Zebra Midge or other nymph pattern as deep and as slow as you can without getting snagged on the bottom! Caught three very nice rainbow trout using this method! ",
+      "date": "12/19/2025",
+      "locationId": 1,
+      "userId": 9,
+      "likes": 0
     }
   ],
   "userLikes": [
@@ -302,22 +386,52 @@
       "id": 9
     },
     {
-      "userId": 1,
-      "reportId": 2,
-      "locationId": 2,
-      "id": 10
-    },
-    {
-      "userId": 9,
-      "reportId": 13,
-      "locationId": 10,
-      "id": 11
-    },
-    {
       "userId": 9,
       "reportId": 2,
       "locationId": 2,
       "id": 12
+    },
+    {
+      "userId": 9,
+      "reportId": 12,
+      "locationId": 9,
+      "id": 13
+    },
+    {
+      "userId": 9,
+      "reportId": 7,
+      "locationId": 5,
+      "id": 14
+    },
+    {
+      "userId": 9,
+      "reportId": 10,
+      "locationId": 7,
+      "id": 15
+    },
+    {
+      "userId": 9,
+      "reportId": 11,
+      "locationId": 6,
+      "id": 16
+    },
+    {
+      "userId": 9,
+      "reportId": 3,
+      "locationId": 11,
+      "id": 17
+    },
+    {
+      "userId": 1,
+      "reportId": 9,
+      "locationId": 8,
+      "id": 18
+    },
+    {
+      "userId": 1,
+      "reportId": 2,
+      "locationId": 2,
+      "id": 19
     }
   ]
 }
